@@ -1,0 +1,21 @@
+{
+  "name": "svp-dark",
+  "displayName": "svp.dark",
+  "description": "Dark theme inspired by Afterglow",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "svp.dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/svp.dark-color-theme.json"
+      }
+    ]
+  }
+}
