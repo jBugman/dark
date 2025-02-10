@@ -61,6 +61,7 @@
 				"storage.type",
 				"support.type.graphql",
 				"meta.object-literal.key.tsx",
+				"variable.other.property.go",
 			],
 			"settings": {
 				"foreground": "#d6d6d6"
