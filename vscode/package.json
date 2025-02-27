@@ -1,24 +1,25 @@
 {
-	"name": "svp-dark",
-	"displayName": "svp.dark",
-	"description": "Darker theme inspired by Afterglow",
-	"version": "0.2.1",
-	"engines": {
-		"vscode": "^1.96.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "svp.dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/svp.dark-color-theme.json"
-			}
-		]
-	},
-	"__metadata": {
-		"size": 90285
-	}
+  "name": "svp-dark",
+  "displayName": "svp.dark",
+  "description": "Darker theme inspired by Afterglow",
+  "version": "0.2.1",
+  "repository": "https://github.com/jBugman/dark",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "svp.dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/svp.dark-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "size": 90285
+  }
 }

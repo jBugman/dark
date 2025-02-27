@@ -1,0 +1,7 @@
+id = "svp-dark"
+name = "svp.dark"
+version = "0.1.0"
+schema_version = 1
+authors = ["Sergei Parshukov <codedby@bugman.me>"]
+description = "Darker theme inspired by Afterglow"
+repository = "https://github.com/jBugman/dark"
